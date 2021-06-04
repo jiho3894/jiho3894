@@ -1,2 +1,2 @@
-프론트엔드 취준생 김지호입니다.
+https://jiho3894.github.io/Web-Synthesizer/piano/
 
