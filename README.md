@@ -2,4 +2,4 @@
 
 TODO 리스트 - https://jiho3894.github.io/ToDoList/
 
-영화 앱 사이트 - https://jiho3894.github.io/movie_app/#/
+영화 앱 사이트 - https://jiho3894.github.io/cloneNetflix/
