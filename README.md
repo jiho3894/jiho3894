@@ -26,13 +26,13 @@
 
 ## 팀 프로젝트
 
-스마트 보안 (졸업 작품) - https://jiho3894.github.io/Smart-Camera/templates/index.html
+스마트 보안 (졸업 작품) - https://github.com/jiho3894/Smart-Camera
 
 ## 개인 프로젝트
 
 클론 넷플릭스 (React,TypeScript)  - 
 
-웹 신디사이저 (Flask 웹사이트) - https://jiho3894.github.io/Web-Synthesizer/piano/
+웹 신디사이저 (Flask 웹사이트) - https://github.com/jiho3894/Web-Synthesizer
 
 랜덤 숫자 맞추기 (React) - https://jiho3894.github.io/RamdomNumber/
 
