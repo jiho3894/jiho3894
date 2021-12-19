@@ -35,5 +35,3 @@
 웹 신디사이저 (Flask 웹사이트) - https://github.com/jiho3894/Web-Synthesizer
 
 랜덤 숫자 맞추기 (React) - https://jiho3894.github.io/RamdomNumber/
-
-찰리 블로그 (React) - https://jiho3894.github.io/CharleyBlog/#/
