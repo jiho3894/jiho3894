@@ -33,6 +33,8 @@
 
 클론 넷플릭스 (React,TypeScript)  - 
 
+코인 사이트 (React, TypeScript, ReactQuery) - https://jiho3894.github.io/CoinSite/
+
 웹 신디사이저 (Flask 웹사이트) - https://github.com/jiho3894/Web-Synthesizer
 
 랜덤 숫자 맞추기 (React) - https://jiho3894.github.io/RamdomNumber/
