@@ -31,7 +31,9 @@
 
 ## 개인 프로젝트
 
-클론 넷플릭스 (React,TypeScript)  - 
+초기 단계 클론 넷플릭스 (React, JavaScript) - https://jiho3894.github.io/cloneMovie/
+
+김이나는영화 (React,TypeScript)  - 
 
 코인 사이트 (React, TypeScript, ReactQuery) - https://jiho3894.github.io/CoinSite/
 
