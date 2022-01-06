@@ -31,11 +31,11 @@
 
 ## 개인 프로젝트
 
-초기 단계 클론 넷플릭스 (React, JavaScript) - https://jiho3894.github.io/cloneMovie/
+코인 사이트 (React, TypeScript, Recoil) - https://jiho3894.github.io/CoinSite/
 
-김이나는영화 (React,TypeScript)  - 
+초기 클론 넷플릭스 (*업데이트 중*)(React, JavaScript) - https://jiho3894.github.io/cloneMovie/
 
-코인 사이트 (React, TypeScript, ReactQuery) - https://jiho3894.github.io/CoinSite/
+Trello 클론코딩 (*업데이트 중*)(React,TypeScript)  - https://jiho3894.github.io/TodoSite/
 
 웹 신디사이저 (Flask 웹사이트) - https://github.com/jiho3894/Web-Synthesizer
 
