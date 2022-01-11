@@ -33,7 +33,7 @@
 
 코인 사이트 (React, TypeScript, Recoil) - https://jiho3894.github.io/CoinSite/
 
-초기 클론 넷플릭스 (*업데이트 중*)(React, JavaScript) - https://jiho3894.github.io/cloneMovie/
+클론 넷플릭스 (*업데이트 중*)(React, JavaScript) - https://reverent-fermat-0b437e.netlify.app/
 
 Trello 클론코딩 (*업데이트 중*)(React,TypeScript)  - https://jiho3894.github.io/TodoSite/
 
