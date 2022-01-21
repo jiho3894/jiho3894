@@ -31,9 +31,9 @@
 
 ## 개인 프로젝트
 
-코인 사이트 (React, TypeScript, Recoil) - https://jiho3894.github.io/CoinSite/
+클론 넷플릭스 (React, TypeScript) - https://jiho3894.github.io/kimcharley/
 
-클론 넷플릭스 (*업데이트 중*)(React, TypeScript) - https://jiho3894.github.io/kimcharley/
+코인 사이트 (React, TypeScript, Recoil) - https://jiho3894.github.io/CoinSite/
 
 Trello 클론코딩 (*업데이트 중*)(React,TypeScript)  - https://jiho3894.github.io/TodoSite/
 
