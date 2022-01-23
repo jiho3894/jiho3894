@@ -25,18 +25,16 @@
   <br>
 </div>
 
-## 팀 프로젝트
+## 대학교 프로젝트
 
-스마트 보안 (졸업 작품) - https://github.com/jiho3894/Smart-Camera
+스마트 보안 (Python, Flask, JavaScript) - https://github.com/jiho3894/Smart-Camera
 
 ## 개인 프로젝트
 
-클론 넷플릭스 (React, TypeScript) - https://jiho3894.github.io/kimcharley/
+클론 넷플릭스 (React, TypeScript) - https://github.com/jiho3894/kimcharley
 
 코인 사이트 (React, TypeScript, Recoil) - https://jiho3894.github.io/CoinSite/
 
-Trello 클론코딩 (*업데이트 중*)(React,TypeScript)  - https://jiho3894.github.io/TodoSite/
-
-웹 신디사이저 (Flask 웹사이트) - https://github.com/jiho3894/Web-Synthesizer
+웹 신디사이저 (Flask) - https://github.com/jiho3894/Web-Synthesizer
 
 랜덤 숫자 맞추기 (React) - https://jiho3894.github.io/RamdomNumber/
