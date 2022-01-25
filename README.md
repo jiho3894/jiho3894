@@ -31,6 +31,8 @@
 
 ## 개인 프로젝트
 
+덕팬 (python, mongodb) - http://duckpan.shop/
+
 클론 넷플릭스 (React, TypeScript) - https://github.com/jiho3894/kimcharley
 
 코인 사이트 (React, TypeScript, Recoil) - https://jiho3894.github.io/CoinSite/
