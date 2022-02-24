@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiho3894&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 기술 스택 📖
 
 <div align=center> 
@@ -38,7 +36,7 @@
                                                                                                            
 ## 팀 프로젝트
 
-0주차 (python, mongoDB, jQuery) - https://jiho3894.github.io/0WeekProject/WATCHING/index.html
+0주차 - 페이지 구상만 (python, mongoDB, jQuery) - https://jiho3894.github.io/0WeekProject/WATCHING/index.html
                                                                                                            
 ## 대학교 팀 프로젝트
 
