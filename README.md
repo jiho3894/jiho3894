@@ -22,14 +22,13 @@
 
 ## 개인 프로젝트
 
-덕팬 (python, mongodb, jQuery) - http://duckpan.shop/
-                                                                                                           
 블로그 티빙 프로젝트 (React, TypeScript, ReactQuery) - https://github.com/jiho3894/Charliving
 
 클론 넷플릭스 (React, TypeScript) - https://github.com/jiho3894/kimcharley
 
-코인 사이트 (React, TypeScript, Recoil) - https://jiho3894.github.io/CoinSite/
-                                                                                                           
+코인 사이트 (React, TypeScript, Recoil) - https://jiho3894.github.io/CoinSite/                                                                                                                                                                                                                     
+덕팬 (python, mongodb, jQuery) - http://duckpan.shop/
+                               
 찰리 디스코드 노래 봇 (Python, Discord.py) - https://github.com/jiho3894/CharleyBot
 
 웹 신디사이저 (Flask) - https://github.com/jiho3894/Web-Synthesizer
