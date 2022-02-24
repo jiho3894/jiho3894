@@ -1,7 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiho3894&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# [기술 블로그 🏠](https://velog.io/@jiho3894)
-
 ## 기술 스택 📖
 
 <div align=center> 
@@ -26,14 +24,20 @@
 
 ## 개인 프로젝트
 
-덕팬 (python, mongodb) - http://duckpan.shop/
+덕팬 (python, mongodb, jQuery) - http://duckpan.shop/
+                                                                                                           
+블로그 티빙 프로젝트 (React, TypeScript, ReactQuery) - https://github.com/jiho3894/Charliving
 
 클론 넷플릭스 (React, TypeScript) - https://github.com/jiho3894/kimcharley
 
 코인 사이트 (React, TypeScript, Recoil) - https://jiho3894.github.io/CoinSite/
 
 웹 신디사이저 (Flask) - https://github.com/jiho3894/Web-Synthesizer
+                                                                                                           
+## 팀 프로젝트
 
+0주차 (python, mongoDB, jQuery) - https://jiho3894.github.io/0WeekProject/WATCHING/index.html
+                                                                                                           
 ## 대학교 팀 프로젝트
 
 스마트 보안 (Python, Flask, JavaScript) - https://github.com/jiho3894/Smart-Camera
