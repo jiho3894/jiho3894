@@ -35,7 +35,7 @@
                                                                                                            
 ## 팀 프로젝트
 
-0주차 - 페이지 구상만 (python, mongoDB, jQuery) - https://jiho3894.github.io/0WeekProject/WATCHING/index.html
+0주차 (python, mongoDB, jQuery) - http://54.180.94.133/
                                                                                                            
 ## 대학교 팀 프로젝트
 
