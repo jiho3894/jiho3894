@@ -35,7 +35,7 @@
                                                                                                            
 ## 팀 프로젝트
 
-0주차 (python, mongoDB, jQuery) - http://54.180.94.133/
+0주차 (python, mongoDB, jQuery) - https://github.com/jiho3894/0WeekProject
                                                                                                            
 ## 대학교 팀 프로젝트
 
