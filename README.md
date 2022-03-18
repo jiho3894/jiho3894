@@ -1,3 +1,8 @@
+<div align="center">
+    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=jiho3894">
+    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiho3894&layout=compact">
+</div>
+
 ## 기술 스택 📖
 
 <div align=center> 
@@ -22,11 +27,12 @@
 
 ## 개인 프로젝트
 
-블로그 티빙 프로젝트 (React, TypeScript, ReactQuery) - https://github.com/jiho3894/Charliving
+블로그 티빙 프로젝트 (React, TypeScript, ReactQuery) - https://velog.io/@jiho3894/series/TVING-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9
 
 클론 넷플릭스 (React, TypeScript) - https://github.com/jiho3894/kimcharley
 
-코인 사이트 (React, TypeScript, Recoil) - https://jiho3894.github.io/CoinSite/                                                                                                                                                                                                                     
+코인 사이트 (React, TypeScript, Recoil) - https://jiho3894.github.io/CoinSite/  
+                                                                                                           
 덕팬 (python, mongodb, jQuery) - http://duckpan.shop/
                                
 찰리 디스코드 노래 봇 (Python, Discord.py) - https://github.com/jiho3894/CharleyBot
@@ -35,7 +41,9 @@
                                                                                                            
 ## 팀 프로젝트
 
-0주차 (python, mongoDB, jQuery) - https://github.com/jiho3894/0WeekProject
+0주차 - https://github.com/jiho3894/0WeekProject
+                                                                                                           
+1주차 - https://github.com/jiho3894/1WeekProject
                                                                                                            
 ## 대학교 팀 프로젝트
 
