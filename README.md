@@ -1,5 +1,5 @@
 <div align="center">
-    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=jiho3894">
+    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=jiho3894&show_icons=true&theme=radical">
     <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiho3894&layout=compact">
 </div>
 
