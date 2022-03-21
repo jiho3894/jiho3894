@@ -1,3 +1,11 @@
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiho3894&theme=dark&date_format=%5BY.%5Dn.j&ring=DD2727)](https://git.io/streak-stats)-->
+
+<div align="center">
+<br>
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=35&color=9D9ED2&center=true&vCenter=true&duration=10000&lines=Front-end+web+developer)](https://git.io/typing-svg)
+
+<br>
 <div align="center">
     <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=jiho3894&show_icons=true&theme=radical">
     <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiho3894&layout=compact">
