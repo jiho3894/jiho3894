@@ -41,8 +41,6 @@
 [클론 넷플릭스 (React, TypeScript)](https://github.com/jiho3894/kimcharley)
 
 [코인 사이트 (React, TypeScript, Recoil)](https://jiho3894.github.io/CoinSite/) 
-                                                                                                           
-[덕팬 (python, mongodb, jQuery)](http://duckpan.shop/)
                                
 [찰리 디스코드 노래 봇 (Python, Discord.py)](https://github.com/jiho3894/CharleyBot)
 
