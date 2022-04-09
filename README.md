@@ -7,10 +7,7 @@
 
 <br>
     
-<div align="center">
-    <img style="height: 180px" src="http://github-readme-streak-stats.herokuapp.com?user=jiho3894&theme=onedark&date_format=%5BY.%5Dn.j&fire=DD2727&ring=DD2727&currStreakNum=918FE0&dates=918FE0&sideLabels=918FE0&currStreakLabel=918FE0">
-    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiho3894&layout=compact&show_icons=true&theme=material-           palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0">
-</div>
+<img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiho3894&layout=compact&show_icons=true&theme=material-           palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0">
 
 ## 기술 스택 📖
 
